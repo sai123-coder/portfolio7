@@ -49,7 +49,7 @@ export default function Hero() {
 
   const [code] = useState(`
 const profile = {
-    name: 'MR.Keerthi sai',
+    name: 'MR.KEERTHI SAI KUMAR',
     title: 'AI & ML Specialist | Data Analyst | Problem Solver',
     skills: [
     'Excel', 'Python', 'Power Bi', 'EDA' ,'Data Visualization','Tableau',
@@ -187,7 +187,7 @@ const profile = {
                     I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
-                      MR.KEERTHI SAI
+                      MR.KEERTHI SAI KUMAR
                     </span>
                   </span>
                 </h1>

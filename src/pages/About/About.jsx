@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/shankar.jpg";
+import HeroImg from "@/assets/images/keerthi.jpg";
 import Footer from "@/components/Footer"; // ✅ Import Footer component
 import Skills from "@/pages/Skills/Skills"; // ✅ Import Skills component
 import React from "react";
@@ -36,7 +36,7 @@ export default function About() {
                 👨‍💻 <strong>AI & ML Specialist</strong> | 📊 <strong>Data Analyst</strong> | 🎓 <strong>3rd Year B.Tech Student at SVCET</strong>
               </p>
               <p className="text-white">
-                Hi, I’m <strong>Shankar Reddy</strong>, a passionate developer driven by the potential of Artificial Intelligence to solve complex real-world problems.
+                Hi, I’m <strong>Keerthi sai</strong>, a passionate developer driven by the potential of Artificial Intelligence to solve complex real-world problems.
               </p>
               <p className="text-white">
                 My core expertise lies in <strong>Machine Learning</strong> and <strong>Natural Language Processing (NLP)</strong>. I enjoy working with large datasets to uncover trends and building intelligent applications using <strong>Generative AI</strong> and <strong>LLMs</strong>.
